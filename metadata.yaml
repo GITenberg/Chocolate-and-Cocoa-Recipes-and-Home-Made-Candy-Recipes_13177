@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4882
     wikipedia: http://en.wikipedia.org/wiki/Janet_McKenzie_Hill
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13177#Chocolate-and-Cocoa-Recipes-and-Home-Made-Candy-Recipes
 gutenberg_bookshelf: Cookery
 gutenberg_issued: '2004-08-13'
 gutenberg_type: Text
